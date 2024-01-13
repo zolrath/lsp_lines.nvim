@@ -6,6 +6,10 @@
 [Chat](irc://ircs.libera.chat:6697/#whynothugo) |
 [Sponsor](https://whynothugo.nl/sponsor/)
 
+> [!NOTE]  
+> This is a personal GitHub mirror of the [original SourceHut repository](https://git.sr.ht/~whynothugo/lsp_lines.nvim) as SourceHut has been [experiencing extended outages](https://status.sr.ht/).
+> Please use the [source repository](https://git.sr.ht/~whynothugo/lsp_lines.nvim) for issues, patches, etc as I am not the maintainer of this plugin.
+
 `lsp_lines` is a simple neovim plugin that renders diagnostics using virtual
 lines on top of the real line of code.
 
